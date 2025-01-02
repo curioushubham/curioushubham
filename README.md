@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning Data Analytics and Machine Learning
 - 💞️ I’m looking to collaborate on Data Science Projects
 - 📫 How to reach me shubham.m.kokane@gmail.com/ Insta:@curioushubham
-- ⚡ Fun fact: I am from another universe tryign to get back.
+- ⚡ Fun fact: I am from another universe trying to get back.
